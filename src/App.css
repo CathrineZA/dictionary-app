@@ -1,0 +1,22 @@
+body {
+  background: #9797de;
+}
+
+a {
+  color: #5252dc;
+}
+
+.App-logo {
+  max-width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.App-header {
+  margin: 30px 0;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 30px 0;
+}
