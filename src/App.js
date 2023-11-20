@@ -13,7 +13,7 @@ export default function App() {
         </main>
         <footer className="text-center">
           <small>
-            Coded by{" "}
+            Coded with ❤ by{" "}
             <a href="https://github.com/CathrineZA/dictionary-app">Cathy</a>
           </small>
         </footer>
