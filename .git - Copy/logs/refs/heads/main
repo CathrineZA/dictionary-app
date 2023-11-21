@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 225ed7f4a8cd58fc6d664fa83a35efbfd1052b36 Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1699764288 +0200	commit (initial): Initial commit
+225ed7f4a8cd58fc6d664fa83a35efbfd1052b36 0df46385c3a02ef539b18b4a6beca89b1a599a07 Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1699771143 +0200	commit: created react app
+0df46385c3a02ef539b18b4a6beca89b1a599a07 ec8d7877b22a86d907d2085ef9284e8f9d564fde Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1699773928 +0200	commit: created a form inside dictionary component
+ec8d7877b22a86d907d2085ef9284e8f9d564fde 51bf89101a3bb25976551c52b09b9425fb53ae7c Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1699778165 +0200	commit: installed axios
+51bf89101a3bb25976551c52b09b9425fb53ae7c 690c36a1686a62c189b51997d3007ed871a4971c Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1699782768 +0200	commit: rendered meanings
+690c36a1686a62c189b51997d3007ed871a4971c 667cfbd7818c53a9f99e204272c23570bd115484 Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1700072720 +0200	commit: added new components
+667cfbd7818c53a9f99e204272c23570bd115484 ba5157663f94e7f7579ee9bc1020e3cbf877bb92 Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1700240231 +0200	commit (merge): merged files
+ba5157663f94e7f7579ee9bc1020e3cbf877bb92 901d70f4d772cb7e95e2deaf5bdba4331dd0a184 Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1700462280 +0200	commit: added packages
+901d70f4d772cb7e95e2deaf5bdba4331dd0a184 7a0501293b03f88a0ed3a60a807bbcdeec3c088e Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1700472578 +0200	commit: added photos component
+7a0501293b03f88a0ed3a60a807bbcdeec3c088e a1963cac58a5d5b139803cdaedf5aac12d0fb153 Makoma Cathrine Sekhuto <ccathy203@gmail.com> 1700492820 +0200	commit: added photo component
